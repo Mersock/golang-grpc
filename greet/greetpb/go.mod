@@ -1,4 +1,4 @@
-module github.com/Mersock/golang-grpc/greet/greetpb
+module golang-grpc/greet/greetpb
 
 go 1.16
 

@@ -1,4 +1,4 @@
-module github.com/Mersock/golang-grpc/greet/greet_server
+module golang-grpc/greet/greet_server
 
 go 1.16
 
